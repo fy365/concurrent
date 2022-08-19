@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2d2170-e3f0-48f0-ab5e-52200f036aa8" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/case_tomcat/target/" />
-    <ignored path="$PROJECT_DIR$/jmh_performance/target/" />
-    <ignored path="$PROJECT_DIR$/jcstress_ordering/target/" />
-    <ignored path="$PROJECT_DIR$/case_java7/target/" />
-    <ignored path="$PROJECT_DIR$/case_java8/target/" />
-    <ignored path="$PROJECT_DIR$/case_thirdpart/target/" />
-    <ignored path="$PROJECT_DIR$/jmh_eliminate_locks/target/" />
-    <ignored path="$PROJECT_DIR$/case_monitor/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="4f2d2170-e3f0-48f0-ab5e-52200f036aa8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jol_jol_core_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/507df803-accd-4b92-b7ef-92b3482ec868/storage_v2/_src_/schema/PUBLIC.aaZQjQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/507df803-accd-4b92-b7ef-92b3482ec868/storage_v2/_src_/schema/PUBLIC.aaZQjQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/507df803-accd-4b92-b7ef-92b3482ec868/storage_v2/_src_/schema/SYSTEM.L2avkg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/507df803-accd-4b92-b7ef-92b3482ec868/storage_v2/_src_/schema/SYSTEM.L2avkg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jol_jol_core_0_10_TEST.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/case_java8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/case_java8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n4/TestBiased.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n4/TestBiased.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/test/TestBiased.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/test/TestBiased.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/target/classes/META-INF/java_concurrent.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/n4/TestBiased.class" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/n4/TestBiased.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/test/TestBiased.class" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/test/TestBiased.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,16 +55,6 @@
     </expand>
     <select />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="748023391">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="concurrent" />
   </component>
@@ -64,6 +66,17 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n8/TestTimer.java" root0="FORCE_HIGHLIGHTING" />
@@ -113,6 +126,7 @@
     <option name="height" value="930" />
   </component>
   <component name="ProjectId" id="1SsACpAtcT03tL4MBY52a3VqxsZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -122,6 +136,9 @@
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
     </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="oracle" />
@@ -133,6 +150,9 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;GenericSQL" />
@@ -171,19 +191,7 @@
       <recent name="C:\Users\lenovo\IdeaProjects\concurrent\java_concurrent\src\main\resources" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.TestConcurrentHashMap">
+  <component name="RunManager" selected="Application.TestFrames">
     <configuration name="TestConcurrentHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.TestConcurrentHashMap" />
       <module name="case_java7" />
@@ -210,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.n8.concurrentqueue.v1.TestV1" />
-      <module name="java_concurrent" />
+    <configuration name="TestFrames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.n3.TestFrames" />
+      <module name="case_java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.n8.concurrentqueue.v1.*" />
+          <option name="PATTERN" value="cn.itcast.n3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,9 +257,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CaseThirdpartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="case_thirdpart" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.concurrent.case_thirdpart.CaseThirdpartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonitorApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="case_monitor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.monitor.MonitorApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -276,11 +302,11 @@
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="63740" />
       </RunnerSettings>
@@ -384,12 +410,12 @@
               </StagingTargetModelImpl>
             </list>
           </option>
-          <option name="transportHostId" />
+          <option name="transportHostId" value="" />
           <host-id />
         </data>
       </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="63752" />
         <option name="LOCAL" value="false" />
@@ -404,22 +430,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.MonitorApplication" />
-      <item itemvalue="Spring Boot.CaseThirdpartApplication" />
-      <item itemvalue="Spring Boot.ThirdpartApplication" />
-      <item itemvalue="Application.TestV1" />
       <item itemvalue="Application.TestV2" />
       <item itemvalue="Application.TestWordCount" />
       <item itemvalue="Application.TestDeadLink" />
       <item itemvalue="Application.TestConcurrentHashMap" />
+      <item itemvalue="Spring Boot.MonitorApplication" />
+      <item itemvalue="Spring Boot.CaseThirdpartApplication" />
+      <item itemvalue="Spring Boot.ThirdpartApplication" />
+      <item itemvalue="Spring Boot.MonitorApplication (1)" />
+      <item itemvalue="Application.TestFrames" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestFrames" />
         <item itemvalue="Application.TestConcurrentHashMap" />
         <item itemvalue="Application.TestWordCount" />
         <item itemvalue="Application.TestDeadLink" />
         <item itemvalue="Application.TestV2" />
-        <item itemvalue="Application.TestV1" />
       </list>
     </recent_temporary>
   </component>
@@ -443,6 +470,7 @@
       </serviceView>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -482,6 +510,7 @@
       <workItem from="1576106185764" duration="11552000" />
       <workItem from="1576147147832" duration="359000" />
       <workItem from="1660871677816" duration="570000" />
+      <workItem from="1660888954682" duration="3902000" />
     </task>
     <servers />
   </component>
@@ -525,10 +554,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -537,153 +563,123 @@
           <condition expression="Thread.currentThread().getName().equals(&quot;main&quot;)" language="JAVA" />
           <url>jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java</url>
           <line>105</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
           <line>948</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
           <line>708</line>
-          <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
           <line>953</line>
-          <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
           <line>643</line>
-          <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Test23.java</url>
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Test23.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n4/TestThreadStatus.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n4/TestThreadStatus.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n4/TestThreadStatus.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n4/TestThreadStatus.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n3/TestFrames.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n3/TestFrames.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/lang/Thread.java</url>
           <line>1816</line>
-          <properties />
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n3/TestState2.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n4/TestWaitNotify.java</url>
           <line>41</line>
-          <properties />
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n4/TestWaitNotify.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n4/TestWaitNotify.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n4/reentrant/TestFair.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="86" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/stream/IntStream.java</url>
           <line>72</line>
-          <properties />
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n8/concurrentqueue/v2/TestV2.java</url>
           <line>141</line>
-          <properties />
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <condition expression="newTable.length==32 &amp;&amp;      (     &#9;Thread.currentThread().getName().equals(&quot;Thread-0&quot;)||     &#9;Thread.currentThread().getName().equals(&quot;Thread-1&quot;) &#9;)" language="JAVA" />
           <url>jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/HashMap.java</url>
           <line>589</line>
-          <properties />
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <condition expression="Thread.currentThread().getName().equals(&quot;Thread-0&quot;)" language="JAVA" />
           <url>jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/HashMap.java</url>
           <line>593</line>
-          <properties />
           <option name="timeStamp" value="106" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n8/TestWordCount.java</url>
           <line>54</line>
-          <properties />
           <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
           <line>841</line>
-          <properties />
           <option name="timeStamp" value="109" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
@@ -697,14 +693,22 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
           <line>895</line>
-          <properties />
           <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
           <line>1645</line>
-          <properties />
           <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n3/TestFrames.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n4/TestBiased.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="115" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-defaults>
