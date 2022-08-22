@@ -5,7 +5,7 @@ import cn.itcast.n2.util.FileReader;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j(topic = "c.Test4")
-public class Test4 {
+public class Start_VS_Run {
 
     public static void main(String[] args) {
         Thread t1 = new Thread("t1") {

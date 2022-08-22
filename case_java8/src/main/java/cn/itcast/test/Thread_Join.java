@@ -5,7 +5,7 @@ import lombok.extern.slf4j.Slf4j;
 import static cn.itcast.n2.util.Sleeper.sleep;
 
 @Slf4j(topic = "c.Test10")
-public class Test10 {
+public class Thread_Join {
     static int r = 0;
     public static void main(String[] args) throws InterruptedException {
         test1();
@@ -19,6 +19,7 @@ public class Test10 {
             r = 10;
         },"t1");
         t1.start();
+        // 主线程等待t1线程运行结束
         t1.join();
         log.debug("结果为:{}", r);
         log.debug("结束");

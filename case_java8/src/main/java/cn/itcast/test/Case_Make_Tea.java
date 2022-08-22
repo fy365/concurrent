@@ -6,7 +6,7 @@ import lombok.extern.slf4j.Slf4j;
 import static cn.itcast.n2.util.Sleeper.sleep;
 
 @Slf4j(topic = "c.Test16")
-public class Test16 {
+public class Case_Make_Tea {
 
     public static void main(String[] args) {
         Thread t1 = new Thread(() -> {

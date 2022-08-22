@@ -3,7 +3,7 @@ package cn.itcast.test;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j(topic = "c.Test9")
-public class Test9 {
+public class Thread_Yield_Priority {
 
     public static void main(String[] args) {
         Runnable task1 = () -> {

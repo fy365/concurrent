@@ -5,7 +5,7 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j(topic = "c.TwoPhaseTermination")
 public class Test13 {
     public static void main(String[] args) throws InterruptedException {
-        TwoPhaseTermination tpt = new TwoPhaseTermination();
+        TwoPhaseTermination1 tpt = new TwoPhaseTermination1();
         tpt.start();
         tpt.start();
         tpt.start();
